@@ -5,7 +5,7 @@ loop do
   answer = gets.chomp
   if break answer == "Wingardium Leviosa"
   end
-   "You passed the quiz!"
+  puts "You passed the quiz!"
   
 end
 end
